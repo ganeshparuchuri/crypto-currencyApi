@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.list-items {
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.currency-logo {
+  height: 30px;
+  margin-right: 20px;
+}
+.currency-heading {
+  font-size: 15px;
+  color: white;
+}
+.usd-value {
+  font-size: 15px;
+  color: white;
+  margin-right: 20px;
+}
+.euro-value {
+  font-size: 15px;
+  color: white;
+}
+.div1 {
+  display: flex;
+}
+@media screen and (min-width: 768px) {
+  .div5 {
+    margin-right: 15px;
+  }
+}
